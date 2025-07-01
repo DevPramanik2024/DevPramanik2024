@@ -46,7 +46,7 @@
 ---
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-kumari026012/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-kumar-pramanik-93bb12312/)  
 📧 **Email**: kdev80170@gmail.com  
 🌐 **GitHub**: [DevPramanik2024](https://github.com/DevPramanik2024)
 
